@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+  }
+h3:hover{
+    color: rgb(196, 14, 14);
+}
+.title{
+    color: blue;
+}
+.subtitle{
+    color: crimson;
+}
+#study-plan-for-everyday{
+    color:brown ;
+}
+li:nth-child(3){
+    color: green;
+}
+li:nth-child(6){
+    color: green;
+}
+ 
