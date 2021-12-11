@@ -1,0 +1,34 @@
+body {
+    background-color:lightgrey;
+  }
+
+h3{
+    color: red;
+    text-align: center;
+
+}
+h3:hover{
+    color: blue;
+}
+h1{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+}
+h2{
+    text-align: center;
+    color: cornflowerblue;
+    font-size: 20px;
+    font-weight: solid;
+
+}
+h4{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+    border: 3px dotted black;
+}
+p{
+    background-color: black;
+    color: white;
+}
